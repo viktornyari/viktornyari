@@ -51,6 +51,14 @@ Open to **full-time** and **contract** frontend and full-stack engineering oppor
 ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
 ![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
 
+**AI & Machine Learning**
+
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-CC785C?style=flat-square&logo=anthropic&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Vercel AI SDK](https://img.shields.io/badge/Vercel_AI_SDK-000000?style=flat-square&logo=vercel&logoColor=white)
+
 **Design & Tooling**
 
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
@@ -69,7 +77,7 @@ Open to **full-time** and **contract** frontend and full-stack engineering oppor
 | [RushDrop](https://rushdrop.gg) | Real-time esports gaming platform with Next.js |
 | [Power Framework](https://powerframework.com) | Corporate site for a Microsoft partner |
 | [The Million Roses](https://themillionroses.com) | Custom Shopify storefront for a luxury gifting brand |
-| [Playground XYZ](https://playlist.playground.xyz/xyz/) | Interactive mobile ad experiences with JS & HTML5 Canvas |
+| [GumGum](https://gumgum.com/gallery) | Interactive mobile ad experiences with JS & HTML5 Canvas |
 
 ---
 
