@@ -85,9 +85,11 @@ Open to **full-time** and **contract** frontend and full-stack engineering oppor
 
 <div align="center">
 
-![Viktor's GitHub Stats](https://viktornyari-stats.vercel.app/api?username=viktornyari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb&count_private=true)
+<img alt="Viktor's GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=viktornyari&show_icons=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&icon_color=1f6feb" />
 
-![Top Languages](https://viktornyari-stats.vercel.app/api/top-langs/?username=viktornyari&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6)
+<img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=viktornyari&layout=compact&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=6" />
+
+<img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=viktornyari&hide_border=true&background=0d1117&ring=58a6ff&fire=58a6ff&currStreakLabel=58a6ff" />
 
 </div>
 
